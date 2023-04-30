@@ -10,7 +10,7 @@ body {
 .header {
   height: 80vh;
   position: relative;
-  background-image: url('../images/bee-balogun-KGyzk-EvTwQ-unsplash-2.jpg');
+  background-image: url('images/bee-balogun-KGyzk-EvTwQ-unsplash-2.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
